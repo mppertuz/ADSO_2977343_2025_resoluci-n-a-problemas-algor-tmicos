@@ -40,8 +40,8 @@ switch (Figura) {
         console.log(`El perímetro del círculo es: ${perimetro}`);
         break;      
 
-    default:
-        console.log("Figura no reconocida. Por favor, ingrese cuadrado, rectángulo, triángulo o círculo.");
-        break;      
+default:
+    console.log("Figura no reconocida. Por favor, ingrese cuadrado, rectángulo, triángulo o círculo.");
+    break;      
     
     }
