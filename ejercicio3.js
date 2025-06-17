@@ -54,6 +54,11 @@ while (j < vector2.length) {
 }
 
 // Mostrar el resultado
-console.log();
+console.log("Vector 1:", vector1);
+console.log("Vector 2:", vector2);  
+console.log("Vector Mezcla:", Mezcla);
+alert("Vector 1: " + vector1.join(", ") + "\n" +
+      "Vector 2: " + vector2.join(", ") + "\n" +
+      "Vector Mezcla: " + Mezcla.join(", "));       
 
 
