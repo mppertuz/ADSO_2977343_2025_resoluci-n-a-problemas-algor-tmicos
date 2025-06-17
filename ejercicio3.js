@@ -54,6 +54,6 @@ while (j < vector2.length) {
 }
 
 // Mostrar el resultado
-console.log(ADSFJKLÑ});
+console.log();
 
 
